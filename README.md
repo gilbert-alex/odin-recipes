@@ -1,7 +1,7 @@
 # odin-recipes
-#A basic recipe website to complete the HTML section of TOP.
+## A basic recipe website to complete the HTML section of TOP.
 
-##Learning objectives:
+### Learning objectives:
 - Basic HTML elements such as headers, paragraphs, and lists.
 - Images:
     - Absolute links to web addresses.
