@@ -1,0 +1,44 @@
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: grey;
+}
+
+h1 {
+    background-color: yellow;
+    text-align: center;
+}
+
+.wrapper {
+    width: 75%;
+    height: auto;
+    border: thick double rgb(100%, 100%, 0%);
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+
+.list-title {
+    font-size: larger;
+    font-weight: 600;
+    text-align: center;
+}
+
+ul,
+ol {
+    background-color: palegreen;
+    text-align: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img-center {
+    text-align: center;
+}
